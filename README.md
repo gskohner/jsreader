@@ -77,9 +77,12 @@ ToDo
 Add checkbox for Read Aloud. 
 {onstart: StartCallback, onend: EndCallback});  https://responsivevoice.org/api/
 Add Dropdown for voices with SETDEFAULTVOICE()  https://responsivevoice.org/api/
+Add format for 
 Add url for human narration mp3
-Add url to load content from wordpress 
+Add url to load text content from wordpress 
+Add url to load image content from wordpress 
 Add url to load quiz. 
 Add code to navigate based on quiz
+
 
 
