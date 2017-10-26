@@ -72,6 +72,9 @@ Jumping into a new development project is never easy, but the JavaScript Speed R
 | changelog.md | The list of changes by version. |
 | DEVELOPER.md | The developer documentation to help developers get up to speed quickly on the source code. |
 
-## Acknowledgement
+ToDo
+Add checkbox for Read Aloud. 
+{onstart: StartCallback, onend: EndCallback});  https://responsivevoice.org/api/
+Add Dropdown for voices with SETDEFAULTVOICE()  https://responsivevoice.org/api/
+Add url for human narration mp3
 
-This program was inspired by videos released by [Spritz Inc](http://spritzinc.com/) of their excellent speed reading system.
