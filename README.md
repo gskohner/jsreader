@@ -83,6 +83,8 @@ Add url to load text content from wordpress
 Add url to load image content from wordpress 
 Add url to load quiz. 
 Add code to navigate based on quiz
+Add code to adjust reading rate based on quiz
+
 
 
 
