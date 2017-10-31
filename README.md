@@ -84,6 +84,7 @@ Add url for human narration mp3
 Add url params to set checkboxes
 Add code to navigate based on quiz
 Add code to adjust reading rate based on quiz
+AR.js render with beat targets. 
 
 
 
