@@ -73,18 +73,18 @@ Jumping into a new development project is never easy, but the JavaScript Speed R
 | DEVELOPER.md | The developer documentation to help developers get up to speed quickly on the source code. |
 
 ToDo
-{rate: 1.5}  https://responsivevoice.org/api/
+
+Add url to load image content from wordpress 
 Add checkbox for Read Aloud. 
-{onstart: StartCallback, onend: EndCallback});  https://responsivevoice.org/api/
 Add Dropdown for voices with SETDEFAULTVOICE()  https://responsivevoice.org/api/
-Add format for pause like --
+Add url param for next and previous
 Add url to load quiz. 
 Add url to load text content from wordpress 
-Add url to load image content from wordpress 
+Add url for human narration mp3
 Add url params to set checkboxes
 Add code to navigate based on quiz
 Add code to adjust reading rate based on quiz
-Add url for human narration mp3
+
 
 
 
